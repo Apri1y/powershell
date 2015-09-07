@@ -1,10 +1,8 @@
 # powershell
 
-├─backdoor      
+├─backdoor
 ├─exploit
-├─fuzzing         
+├─fuzzing
 ├─note
 ├─misc
 └─powershell
-
-
