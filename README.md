@@ -1,6 +1,6 @@
 # powershell
 
-pentest├─backdoor      
+├─backdoor      
 ├─exploit
 ├─fuzzing         
 ├─note
