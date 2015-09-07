@@ -1,9 +1,3 @@
-Powershell Gethash
-
-使用powershell远程调用来抓取管理hash。
-
-
-
 
 在线导hash
 
